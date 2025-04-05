@@ -1,3 +1,5 @@
 .qodo
 webathon/node_modules
 webathon/.env
+server/node_modules
+server/.env
